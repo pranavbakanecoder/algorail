@@ -1,0 +1,321 @@
+train_id,train_name,train_type,priority_score,explanation,scheduled_time,delay_minutes,rank
+T0263,Rajdhani 263,Rajdhani,0.8,Train Type: Rajdhani (Priority Level 1) | Peak hours - Higher priority,20:42,0,1
+T0112,Rajdhani 112,Rajdhani,0.8,Train Type: Rajdhani (Priority Level 1) | Peak hours - Higher priority,08:54,0,2
+T0136,Rajdhani 136,Rajdhani,0.8,Train Type: Rajdhani (Priority Level 1) | Peak hours - Higher priority,18:13,0,3
+T0264,Rajdhani 264,Rajdhani,1.0,Train Type: Rajdhani (Priority Level 1),14:39,0,4
+T0251,Rajdhani 251,Rajdhani,1.0,Train Type: Rajdhani (Priority Level 1),12:30,0,5
+T0310,Rajdhani 310,Rajdhani,1.2,Train Type: Rajdhani (Priority Level 1) | Night hours - Lower priority,00:13,0,6
+T0266,Rajdhani 266,Rajdhani,1.2,Train Type: Rajdhani (Priority Level 1) | Night hours - Lower priority,02:12,0,7
+T0047,Rajdhani 47,Rajdhani,1.2,Train Type: Rajdhani (Priority Level 1) | Night hours - Lower priority,03:36,0,8
+T0203,Express 203,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,08:32,0,9
+T0089,Express 89,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,07:55,0,10
+T0173,Express 173,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,17:17,0,11
+T0174,Express 174,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,19:19,0,12
+T0077,Express 77,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,07:57,0,13
+T0056,Express 56,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,17:44,0,14
+T0230,Express 230,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,17:15,0,15
+T0282,Express 282,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,08:47,0,16
+T0178,Express 178,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,10:51,0,17
+T0118,Express 118,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,18:50,0,18
+T0114,Express 114,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,09:58,0,19
+T0110,Express 110,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,08:44,0,20
+T0102,Express 102,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,17:11,0,21
+T0312,Express 312,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,09:43,0,22
+T0145,Express 145,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,19:39,0,23
+T0155,Express 155,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,18:58,0,24
+T0100,Express 100,Express,1.6,Train Type: Express (Priority Level 3) | Peak hours - Higher priority,10:25,0,25
+T0071,Express 71,Express,2.0,Train Type: Express (Priority Level 3),13:46,0,26
+T0087,Express 87,Express,2.0,Train Type: Express (Priority Level 3),22:59,0,27
+T0249,Express 249,Express,2.0,Train Type: Express (Priority Level 3),14:20,0,28
+T0243,Express 243,Express,2.0,Train Type: Express (Priority Level 3),06:55,0,29
+T0231,Express 231,Express,2.0,Train Type: Express (Priority Level 3),22:30,0,30
+T0277,Express 277,Express,2.0,Train Type: Express (Priority Level 3),12:13,0,31
+T0057,Express 57,Express,2.0,Train Type: Express (Priority Level 3),15:00,0,32
+T0143,Express 143,Express,2.0,Train Type: Express (Priority Level 3),11:55,0,33
+T0009,Express 9,Express,2.0,Train Type: Express (Priority Level 3),11:31,0,34
+T0014,Express 14,Express,2.0,Train Type: Express (Priority Level 3),22:30,0,35
+T0105,Express 105,Express,2.0,Train Type: Express (Priority Level 3),21:19,0,36
+T0213,Express 213,Express,2.0,Train Type: Express (Priority Level 3),06:37,0,37
+T0217,Express 217,Express,2.0,Train Type: Express (Priority Level 3),22:52,0,38
+T0085,Express 85,Express,2.0,Train Type: Express (Priority Level 3),22:43,0,39
+T0216,Express 216,Express,2.0,Train Type: Express (Priority Level 3),11:37,0,40
+T0272,Express 272,Express,2.0,Train Type: Express (Priority Level 3),16:12,0,41
+T0184,Express 184,Express,2.0,Train Type: Express (Priority Level 3),14:53,0,42
+T0017,Express 17,Express,2.0,Train Type: Express (Priority Level 3),16:36,0,43
+T0304,Express 304,Express,2.0,Train Type: Express (Priority Level 3),13:34,0,44
+T0317,Express 317,Express,2.0,Train Type: Express (Priority Level 3),11:00,0,45
+T0191,Express 191,Express,2.0,Train Type: Express (Priority Level 3),21:15,0,46
+T0135,Express 135,Express,2.0,Train Type: Express (Priority Level 3),15:11,0,47
+T0002,Express 2,Express,2.0,Train Type: Express (Priority Level 3),14:44,0,48
+T0051,Express 51,Express,2.0,Train Type: Express (Priority Level 3),06:13,0,49
+T0281,Express 281,Express,2.0,Train Type: Express (Priority Level 3),15:39,0,50
+T0240,Express 240,Express,2.0,Train Type: Express (Priority Level 3),22:54,0,51
+T0233,Express 233,Express,2.0,Train Type: Express (Priority Level 3),06:28,0,52
+T0035,Express 35,Express,2.0,Train Type: Express (Priority Level 3),22:07,0,53
+T0209,Express 209,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,01:39,0,54
+T0190,Express 190,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,01:08,0,55
+T0117,Express 117,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,00:33,0,56
+T0154,Express 154,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,04:32,0,57
+T0285,Express 285,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,03:56,0,58
+T0067,Express 67,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,01:09,0,59
+T0081,Express 81,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,05:43,0,60
+T0050,Express 50,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,01:46,0,61
+T0291,Express 291,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,02:35,0,62
+T0239,Express 239,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,00:16,0,63
+T0225,Express 225,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,05:27,0,64
+T0111,Express 111,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,01:48,0,65
+T0160,Express 160,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,03:44,0,66
+T0159,Express 159,Express,2.4,Train Type: Express (Priority Level 3) | Night hours - Lower priority,00:34,0,67
+T0309,Passenger 309,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,08:02,0,68
+T0097,Passenger 97,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,09:13,0,69
+T0177,Passenger 177,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,18:41,0,70
+T0049,Passenger 49,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,10:37,0,71
+T0273,Passenger 273,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,17:09,0,72
+T0220,Passenger 220,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,18:05,0,73
+T0170,Passenger 170,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,17:06,0,74
+T0212,Passenger 212,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,08:01,0,75
+T0313,Passenger 313,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,18:19,0,76
+T0227,Passenger 227,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,08:41,0,77
+T0259,Passenger 259,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,10:10,0,78
+T0197,Passenger 197,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,17:45,0,79
+T0161,Passenger 161,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,20:01,0,80
+T0238,Passenger 238,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,20:21,0,81
+T0228,Passenger 228,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,17:03,0,82
+T0094,Passenger 94,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,18:41,0,83
+T0250,Passenger 250,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,07:02,0,84
+T0013,Passenger 13,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,18:26,0,85
+T0199,Passenger 199,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,20:33,0,86
+T0113,Passenger 113,Passenger,2.4000000000000004,Train Type: Passenger (Priority Level 4) | Peak hours - Higher priority,17:12,0,87
+T0066,Passenger 66,Passenger,3.0,Train Type: Passenger (Priority Level 4),06:20,0,88
+T0037,Passenger 37,Passenger,3.0,Train Type: Passenger (Priority Level 4),06:45,0,89
+T0061,Passenger 61,Passenger,3.0,Train Type: Passenger (Priority Level 4),22:48,0,90
+T0265,Passenger 265,Passenger,3.0,Train Type: Passenger (Priority Level 4),21:45,0,91
+T0260,Passenger 260,Passenger,3.0,Train Type: Passenger (Priority Level 4),15:18,0,92
+T0258,Passenger 258,Passenger,3.0,Train Type: Passenger (Priority Level 4),22:14,0,93
+T0253,Passenger 253,Passenger,3.0,Train Type: Passenger (Priority Level 4),13:43,0,94
+T0242,Passenger 242,Passenger,3.0,Train Type: Passenger (Priority Level 4),22:34,0,95
+T0226,Passenger 226,Passenger,3.0,Train Type: Passenger (Priority Level 4),13:33,0,96
+T0176,Passenger 176,Passenger,3.0,Train Type: Passenger (Priority Level 4),12:35,0,97
+T0221,Passenger 221,Passenger,3.0,Train Type: Passenger (Priority Level 4),15:08,0,98
+T0195,Passenger 195,Passenger,3.0,Train Type: Passenger (Priority Level 4),15:58,0,99
+T0080,Passenger 80,Passenger,3.0,Train Type: Passenger (Priority Level 4),16:32,0,100
+T0157,Passenger 157,Passenger,3.0,Train Type: Passenger (Priority Level 4),14:14,0,101
+T0120,Passenger 120,Passenger,3.0,Train Type: Passenger (Priority Level 4),21:02,0,102
+T0123,Passenger 123,Passenger,3.0,Train Type: Passenger (Priority Level 4),21:21,0,103
+T0116,Passenger 116,Passenger,3.0,Train Type: Passenger (Priority Level 4),15:19,0,104
+T0308,Passenger 308,Passenger,3.0,Train Type: Passenger (Priority Level 4),16:51,0,105
+T0292,Passenger 292,Passenger,3.0,Train Type: Passenger (Priority Level 4),15:19,0,106
+T0024,Passenger 24,Passenger,3.0,Train Type: Passenger (Priority Level 4),14:25,0,107
+T0028,Passenger 28,Passenger,3.0,Train Type: Passenger (Priority Level 4),15:08,0,108
+T0021,Passenger 21,Passenger,3.0,Train Type: Passenger (Priority Level 4),11:10,0,109
+T0315,Local 315,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:17,0,110
+T0316,Local 316,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,10:27,0,111
+T0320,Local 320,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:29,0,112
+T0307,Local 307,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:31,0,113
+T0297,Local 297,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,17:14,0,114
+T0030,Local 30,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,19:04,0,115
+T0295,Local 295,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:16,0,116
+T0303,Local 303,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:12,0,117
+T0027,Local 27,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,18:53,0,118
+T0019,Local 19,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:40,0,119
+T0150,Local 150,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,08:30,0,120
+T0138,Local 138,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:45,0,121
+T0001,Local 1,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:50,0,122
+T0003,Local 3,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:27,0,123
+T0007,Local 7,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:13,0,124
+T0010,Local 10,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:18,0,125
+T0169,Local 169,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,10:07,0,126
+T0183,Local 183,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:08,0,127
+T0211,Local 211,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:56,0,128
+T0222,Local 222,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,19:25,0,129
+T0108,Local 108,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,08:43,0,130
+T0185,Local 185,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,19:46,0,131
+T0189,Local 189,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,18:26,0,132
+T0202,Local 202,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,08:06,0,133
+T0106,Local 106,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:32,0,134
+T0069,Local 69,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:29,0,135
+T0241,Local 241,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,18:35,0,136
+T0245,Local 245,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:42,0,137
+T0084,Local 84,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:41,0,138
+T0086,Local 86,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:14,0,139
+T0093,Local 93,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,17:29,0,140
+T0196,Local 196,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,17:24,0,141
+T0236,Local 236,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:01,0,142
+T0235,Local 235,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:59,0,143
+T0275,Local 275,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:29,0,144
+T0232,Local 232,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,10:03,0,145
+T0274,Local 274,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,20:28,0,146
+T0268,Local 268,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,07:26,0,147
+T0280,Local 280,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,19:30,0,148
+T0278,Local 278,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,19:40,0,149
+T0058,Local 58,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:58,0,150
+T0053,Local 53,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,09:21,0,151
+T0038,Local 38,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,18:20,0,152
+T0043,Local 43,Local,3.2,Train Type: Local (Priority Level 5) | Peak hours - Higher priority,08:07,0,153
+T0060,Passenger 60,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,04:28,0,154
+T0311,Passenger 311,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,00:42,0,155
+T0032,Passenger 32,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,05:34,0,156
+T0042,Passenger 42,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,00:43,0,157
+T0132,Passenger 132,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,00:23,0,158
+T0175,Passenger 175,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,23:05,0,159
+T0172,Passenger 172,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,23:59,0,160
+T0020,Passenger 20,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,23:08,0,161
+T0181,Passenger 181,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,02:05,0,162
+T0018,Passenger 18,Passenger,3.5999999999999996,Train Type: Passenger (Priority Level 4) | Night hours - Lower priority,04:16,0,163
+T0015,Local 15,Local,4.0,Train Type: Local (Priority Level 5),14:43,0,164
+T0140,Local 140,Local,4.0,Train Type: Local (Priority Level 5),11:40,0,165
+T0167,Freight 167,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,07:11,0,166
+T0182,Local 182,Local,4.0,Train Type: Local (Priority Level 5),11:34,0,167
+T0098,Local 98,Local,4.0,Train Type: Local (Priority Level 5),14:20,0,168
+T0147,Local 147,Local,4.0,Train Type: Local (Priority Level 5),12:03,0,169
+T0156,Freight 156,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,18:06,0,170
+T0148,Local 148,Local,4.0,Train Type: Local (Priority Level 5),11:28,0,171
+T0125,Freight 125,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,09:13,0,172
+T0119,Freight 119,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,18:57,0,173
+T0214,Freight 214,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,20:06,0,174
+T0218,Local 218,Local,4.0,Train Type: Local (Priority Level 5),22:39,0,175
+T0193,Local 193,Local,4.0,Train Type: Local (Priority Level 5),22:30,0,176
+T0207,Freight 207,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,17:12,0,177
+T0162,Local 162,Local,4.0,Train Type: Local (Priority Level 5),11:51,0,178
+T0134,Local 134,Local,4.0,Train Type: Local (Priority Level 5),16:44,0,179
+T0124,Local 124,Local,4.0,Train Type: Local (Priority Level 5),06:56,0,180
+T0133,Freight 133,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,17:40,0,181
+T0107,Local 107,Local,4.0,Train Type: Local (Priority Level 5),11:59,0,182
+T0099,Freight 99,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,19:47,0,183
+T0101,Local 101,Local,4.0,Train Type: Local (Priority Level 5),16:43,0,184
+T0109,Freight 109,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,18:09,0,185
+T0187,Local 187,Local,4.0,Train Type: Local (Priority Level 5),14:41,0,186
+T0188,Local 188,Local,4.0,Train Type: Local (Priority Level 5),14:25,0,187
+T0192,Local 192,Local,4.0,Train Type: Local (Priority Level 5),06:49,0,188
+T0179,Local 179,Local,4.0,Train Type: Local (Priority Level 5),11:09,0,189
+T0130,Freight 130,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,09:27,0,190
+T0131,Freight 131,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,20:58,0,191
+T0121,Freight 121,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,08:37,0,192
+T0073,Local 73,Local,4.0,Train Type: Local (Priority Level 5),21:07,0,193
+T0198,Local 198,Local,4.0,Train Type: Local (Priority Level 5),06:09,0,194
+T0091,Local 91,Local,4.0,Train Type: Local (Priority Level 5),14:38,0,195
+T0044,Freight 44,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,10:00,0,196
+T0054,Local 54,Local,4.0,Train Type: Local (Priority Level 5),11:58,0,197
+T0034,Freight 34,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,10:00,0,198
+T0036,Freight 36,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,20:12,0,199
+T0039,Local 39,Local,4.0,Train Type: Local (Priority Level 5),22:38,0,200
+T0065,Freight 65,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,19:35,0,201
+T0046,Local 46,Local,4.0,Train Type: Local (Priority Level 5),15:05,0,202
+T0045,Local 45,Local,4.0,Train Type: Local (Priority Level 5),06:57,0,203
+T0234,Freight 234,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,20:37,0,204
+T0062,Local 62,Local,4.0,Train Type: Local (Priority Level 5),14:11,0,205
+T0092,Local 92,Local,4.0,Train Type: Local (Priority Level 5),13:17,0,206
+T0284,Freight 284,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,08:22,0,207
+T0271,Local 271,Local,4.0,Train Type: Local (Priority Level 5),06:33,0,208
+T0262,Freight 262,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,10:09,0,209
+T0254,Freight 254,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,08:30,0,210
+T0072,Freight 72,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,19:02,0,211
+T0096,Local 96,Local,4.0,Train Type: Local (Priority Level 5),14:35,0,212
+T0074,Freight 74,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,19:59,0,213
+T0287,Freight 287,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,07:38,0,214
+T0256,Local 256,Local,4.0,Train Type: Local (Priority Level 5),06:10,0,215
+T0246,Freight 246,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,17:33,0,216
+T0293,Freight 293,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,07:54,0,217
+T0151,Freight 151,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,10:08,0,218
+T0301,Local 301,Local,4.0,Train Type: Local (Priority Level 5),21:29,0,219
+T0302,Local 302,Local,4.0,Train Type: Local (Priority Level 5),06:29,0,220
+T0319,Local 319,Local,4.0,Train Type: Local (Priority Level 5),15:45,0,221
+T0005,Local 5,Local,4.0,Train Type: Local (Priority Level 5),14:11,0,222
+T0029,Local 29,Local,4.0,Train Type: Local (Priority Level 5),22:42,0,223
+T0025,Local 25,Local,4.0,Train Type: Local (Priority Level 5),15:59,0,224
+T0011,Local 11,Local,4.0,Train Type: Local (Priority Level 5),15:34,0,225
+T0290,Freight 290,Freight,4.0,Train Type: Freight (Priority Level 6) | Peak hours - Higher priority,08:04,0,226
+T0153,Local 153,Local,4.0,Train Type: Local (Priority Level 5),22:35,0,227
+T0006,Local 6,Local,4.0,Train Type: Local (Priority Level 5),12:13,0,228
+T0008,Local 8,Local,4.0,Train Type: Local (Priority Level 5),14:38,0,229
+T0204,Local 204,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,03:26,0,230
+T0146,Local 146,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,01:48,0,231
+T0152,Local 152,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,03:18,0,232
+T0122,Local 122,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:47,0,233
+T0115,Local 115,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,05:15,0,234
+T0163,Local 163,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,01:54,0,235
+T0165,Local 165,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,04:32,0,236
+T0104,Local 104,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:53,0,237
+T0041,Local 41,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,04:39,0,238
+T0052,Local 52,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:05,0,239
+T0248,Local 248,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,23:31,0,240
+T0128,Local 128,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:42,0,241
+T0186,Local 186,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:57,0,242
+T0180,Local 180,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:24,0,243
+T0142,Local 142,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:01,0,244
+T0023,Local 23,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,03:56,0,245
+T0016,Local 16,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,23:13,0,246
+T0298,Local 298,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,01:06,0,247
+T0314,Local 314,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:09,0,248
+T0306,Local 306,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:37,0,249
+T0137,Local 137,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,05:45,0,250
+T0237,Local 237,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,04:02,0,251
+T0267,Local 267,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:18,0,252
+T0270,Local 270,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,04:05,0,253
+T0276,Local 276,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:51,0,254
+T0257,Local 257,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,04:52,0,255
+T0261,Local 261,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,23:48,0,256
+T0279,Local 279,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:18,0,257
+T0283,Local 283,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,01:36,0,258
+T0255,Local 255,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,23:57,0,259
+T0068,Local 68,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,03:07,0,260
+T0269,Local 269,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:47,0,261
+T0076,Local 76,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:49,0,262
+T0082,Local 82,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,05:47,0,263
+T0200,Local 200,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:20,0,264
+T0095,Local 95,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,01:05,0,265
+T0083,Local 83,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:15,0,266
+T0078,Local 78,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:02,0,267
+T0252,Local 252,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,05:02,0,268
+T0201,Local 201,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,02:22,0,269
+T0171,Local 171,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:39,0,270
+T0103,Local 103,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:18,0,271
+T0126,Local 126,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,00:39,0,272
+T0244,Local 244,Local,4.8,Train Type: Local (Priority Level 5) | Night hours - Lower priority,23:32,0,273
+T0286,Freight 286,Freight,5.0,Train Type: Freight (Priority Level 6),22:31,0,274
+T0048,Freight 48,Freight,5.0,Train Type: Freight (Priority Level 6),13:14,0,275
+T0299,Freight 299,Freight,5.0,Train Type: Freight (Priority Level 6),22:12,0,276
+T0229,Freight 229,Freight,5.0,Train Type: Freight (Priority Level 6),12:13,0,277
+T0139,Freight 139,Freight,5.0,Train Type: Freight (Priority Level 6),22:38,0,278
+T0158,Freight 158,Freight,5.0,Train Type: Freight (Priority Level 6),12:17,0,279
+T0215,Freight 215,Freight,5.0,Train Type: Freight (Priority Level 6),14:59,0,280
+T0166,Freight 166,Freight,5.0,Train Type: Freight (Priority Level 6),12:13,0,281
+T0168,Freight 168,Freight,5.0,Train Type: Freight (Priority Level 6),11:12,0,282
+T0210,Freight 210,Freight,5.0,Train Type: Freight (Priority Level 6),06:56,0,283
+T0223,Freight 223,Freight,5.0,Train Type: Freight (Priority Level 6),11:20,0,284
+T0026,Freight 26,Freight,5.0,Train Type: Freight (Priority Level 6),15:47,0,285
+T0149,Freight 149,Freight,5.0,Train Type: Freight (Priority Level 6),16:20,0,286
+T0004,Freight 4,Freight,5.0,Train Type: Freight (Priority Level 6),22:19,0,287
+T0022,Freight 22,Freight,5.0,Train Type: Freight (Priority Level 6),15:20,0,288
+T0031,Freight 31,Freight,5.0,Train Type: Freight (Priority Level 6),06:53,0,289
+T0294,Freight 294,Freight,5.0,Train Type: Freight (Priority Level 6),13:39,0,290
+T0305,Freight 305,Freight,5.0,Train Type: Freight (Priority Level 6),16:29,0,291
+T0300,Freight 300,Freight,5.0,Train Type: Freight (Priority Level 6),22:53,0,292
+T0205,Freight 205,Freight,5.0,Train Type: Freight (Priority Level 6),22:53,0,293
+T0127,Freight 127,Freight,5.0,Train Type: Freight (Priority Level 6),12:21,0,294
+T0129,Freight 129,Freight,5.0,Train Type: Freight (Priority Level 6),16:38,0,295
+T0194,Freight 194,Freight,5.0,Train Type: Freight (Priority Level 6),12:58,0,296
+T0318,Freight 318,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,00:53,0,297
+T0289,Freight 289,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:26,0,298
+T0296,Freight 296,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:48,0,299
+T0141,Freight 141,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,03:05,0,300
+T0144,Freight 144,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,00:34,0,301
+T0208,Freight 208,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:28,0,302
+T0206,Freight 206,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,00:42,0,303
+T0224,Freight 224,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,23:52,0,304
+T0219,Freight 219,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,02:26,0,305
+T0164,Freight 164,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:13,0,306
+T0012,Freight 12,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:30,0,307
+T0075,Freight 75,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:28,0,308
+T0079,Freight 79,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,05:07,0,309
+T0059,Freight 59,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,02:26,0,310
+T0288,Freight 288,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,02:05,0,311
+T0247,Freight 247,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,00:03,0,312
+T0090,Freight 90,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,00:47,0,313
+T0088,Freight 88,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,05:45,0,314
+T0070,Freight 70,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:16,0,315
+T0055,Freight 55,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,00:18,0,316
+T0063,Freight 63,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,23:31,0,317
+T0033,Freight 33,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,03:46,0,318
+T0064,Freight 64,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,02:15,0,319
+T0040,Freight 40,Freight,6.0,Train Type: Freight (Priority Level 6) | Night hours - Lower priority,04:55,0,320

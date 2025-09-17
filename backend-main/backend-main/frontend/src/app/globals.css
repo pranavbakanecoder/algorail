@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+:root {
+  --background: #07090a;
+  --foreground: #e6e7e8;
+  --radius: 12px;
+  --accent: #10b981;
+  /* emerald-500 */
+  --accent-2: #60a5fa;
+  /* sky-400 */
+  --muted: #0d1113;
+  --border: #1f2427;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: radial-gradient(1200px 600px at 10% -10%, #0b2b20 0%, transparent 60%), radial-gradient(1000px 500px at 110% 10%, #0a1d3a 0%, transparent 60%);
+}
+
+.glass {
+  background-color: color-mix(in oklab, var(--background) 60%, transparent);
+  backdrop-filter: blur(8px);
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #34d399, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* UI helpers */
+.btn {
+  @apply inline-flex items-center gap-2 rounded-md border px-4 py-2 text-sm transition-colors;
+  border-color: var(--border);
+  background: #0b0f12;
+}
+
+.btn:hover {
+  background: #0f1418;
+}
+
+.btn-primary {
+  @apply font-medium;
+  background: color-mix(in oklab, var(--accent) 25%, #0b0f12);
+  border-color: color-mix(in oklab, var(--accent) 40%, var(--border));
+  color: #d6fff2;
+}
+
+.btn-primary:hover {
+  background: color-mix(in oklab, var(--accent) 35%, #0b0f12);
+}
+
+.input {
+  @apply rounded-md border px-3 py-2 text-sm outline-none transition-shadow bg-neutral-950;
+  border-color: var(--border);
+}
+
+.input:focus {
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+}
+
+.table-base th,
+.table-base td {
+  @apply px-3 py-2;
+}
+
+.table-base thead {
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(6px);
+  background: rgba(8, 10, 12, 0.7);
+}
+
+.table-base tbody tr:hover {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+::selection {
+  background: rgba(16, 185, 129, 0.3);
+}
+
+/* Scrollbar (webkit) */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #0b0f12;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #1f2a2f;
+  border-radius: 8px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #26353b;
+}

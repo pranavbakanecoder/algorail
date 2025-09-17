@@ -1,0 +1,8 @@
+disruption_id,type,location_section,start_time,duration_minutes,severity
+D001,Maintenance,STN_09__STN_10,13:46,13,High
+D002,Maintenance,STN_08__STN_09,18:59,10,High
+D003,Weather,STN_09__STN_10,13:45,22,High
+D004,Congestion,STN_09__STN_10,21:36,24,Low
+D005,Maintenance,STN_11__STN_12,05:13,33,High
+D006,SignalFailure,STN_01__STN_02,09:22,15,Medium
+D007,RollingStock,STN_06__STN_07,02:51,35,High

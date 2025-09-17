@@ -1,0 +1,4 @@
+method,success,total_delay,computation_time,throughput,conflicts_resolved
+Priority Heuristic,True,2394.1757505899,0.40569210052490234,320,320
+Genetic Algorithm,True,572.3598726405534,191.99658584594727,320,5000
+Hybrid (GA Winner),True,963.6444806731453,48.008280754089355,320,1500

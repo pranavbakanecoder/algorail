@@ -1,0 +1,12 @@
+section_id,from_station,to_station,length_km,track_type,max_trains_allowed,block_length_km,num_blocks,junction_flag
+STN_01__STN_02,STN_01,STN_02,20,double,2,3.0,6,No
+STN_02__STN_03,STN_02,STN_03,17,single,1,3.0,5,No
+STN_03__STN_04,STN_03,STN_04,19,double,2,3.0,6,No
+STN_04__STN_05,STN_04,STN_05,10,double,2,3.0,3,Yes
+STN_05__STN_06,STN_05,STN_06,15,single,1,3.0,5,Yes
+STN_06__STN_07,STN_06,STN_07,10,single,1,3.0,3,No
+STN_07__STN_08,STN_07,STN_08,11,double,2,3.0,3,No
+STN_08__STN_09,STN_08,STN_09,22,single,1,3.0,7,No
+STN_09__STN_10,STN_09,STN_10,19,double,2,3.0,6,No
+STN_05__STN_11,STN_05,STN_11,19,double,2,3.0,6,Yes
+STN_11__STN_12,STN_11,STN_12,16,single,1,3.0,5,No
